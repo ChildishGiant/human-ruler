@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../source/index.js"],
+  "sourcesContent": ["/*\n * Copyright 202X Allie Law <allie@cloverleaf.app>\n * SPDX-License-Identifier: GPL-3.0-or-later\n */\n\nimport \"./styles.sass\"\n\nconsole.log(\"trest\")\n"],
+  "mappings": ";;AAOA,UAAQ,IAAI,OAAO;",
+  "names": []
+}
